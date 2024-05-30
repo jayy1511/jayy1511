@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Patel</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-
 - 🔭 I’m currently working on **something amazing**
 
 - 🌱 I’m currently learning about **BackEnd Development**
@@ -12,21 +11,25 @@
 
 - 😇 Can't Live Without Notion, VS Code, After Effects
 
-# My stats
-<div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayy1511&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayy1511&hide_border=true&theme=radical" />
+###
+
+<h2 align="center">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayy1511&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayy1511&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jayy1511&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jayy1511&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayy1511&radius=13&theme=github-dark&area=true&order=5&hide_border=true&title_color=ffffff" height="300" alt="activity-graph graph"  />
 </div>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayy1511&theme=radical" >
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jayy1511&theme=xcode" >
+###
 
 ## ⚡ Tech Stack 
+
+<div align="center">
 
 ### 🚀 Languages
 
@@ -52,6 +55,8 @@
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
+</div>
+
 <br>
 
 ## Connect with me
@@ -59,9 +64,6 @@
 <p align="center">
   <a href="www.linkedin.com/in/jay-patel-11012005j11012005">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://www.leetcode.com/naitikpatel107" target="blank">
-		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 	</a>
 	<a href="https://www.instagram.com/_jay_11_01_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
