@@ -62,9 +62,7 @@
 ## Connect with me
 
 <p align="center">
-  	<a href="www.linkedin.com/in/jay-patel-11012005j11012005">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
+  	[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](www.linkedin.com/in/jay-patel-11012005j11012005)
 	<a href="https://www.instagram.com/_jay_11_01_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
