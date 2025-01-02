@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **BackEnd Development**
 
-- 💬 Ask me about **Web developement, Video Editing and UI/UX**
+- 💬 Ask me about **Web developement, Cybersecurity and UI/UX**
 
 - 📫 How to reach me **jay1511dj@gmail.com**
 
