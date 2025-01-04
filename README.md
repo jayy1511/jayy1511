@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Patel</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🔭 I’m currently working on **something amazing**
+- 🔭 I’m currently working on **Python and Java**
 
 - 🌱 I’m currently learning about **BackEnd Development**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jay1511dj@gmail.com**
 
-- 😇 Can't Live Without **Notion, VS Code, After Effects**
+- 😇 Can't Live Without **Notion, VS Code, After Effects and Figma**
 
 ###
 
