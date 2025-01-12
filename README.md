@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jay1511dj@gmail.com**
 
-- 😇 Can't Live Wthout **Notion, VS Code and Figma**
+- 😇 Can't Live Without **Notion, VS Code and Figma**
 
 ###
 
