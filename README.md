@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **BackEnd Development**
 
-- 💬 Ask me about **Web developement and Cybersecurity**
+- 💬 Ask me about **Web development and Cybersecurity**
 
 - 📫 How to reach me **jay1511dj@gmail.com**
 
@@ -70,6 +70,10 @@
 	<a href="https://www.instagram.com/_jay_11_01_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
-	
-  <br>
+</p>
+
+###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayy1511&style=for-the-badge&color=blue" alt="Profile View Count" />
 </p>
