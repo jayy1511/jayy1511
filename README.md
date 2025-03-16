@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Patel</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🔭 I’m currently working on **Pytho**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning about **BackEnd Development**
 
