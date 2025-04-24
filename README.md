@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning about **BackEnd Developmen**
+- 🌱 I’m currently learning about **BackEnd Development**
 
 - 💬 Ask me about **Web development and Cybersecurity**
 
