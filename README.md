@@ -14,8 +14,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayy1511&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=jayy1511&theme=github-dark&hide_border=true&border_radius=5" height="150" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayy1511&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayy1511&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top languages" />
 </div>
 
