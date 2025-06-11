@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about **BackEnd Development**
 - 💬 Ask me about **Web development and Cybersecurity**
 - 📫 How to reach me **jay1511dj@gmail.com**
-- 😇 Can't Live Without **Notion, VS Code and Figma**
+- 😇 Can't Live Without **Notion, VS Code and **
 
 ###
 
