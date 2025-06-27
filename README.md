@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **JavaScript**
 - 🌱 I’m currently learning about **BackEnd Development**
 - 💬 Ask me about **Web development and Cybersecurity**
-- 📫 How to reach me **jay1511dj@gmail.com**
+- 📫 How to reach me **jay1511djgmail.com**
 - 😇 Can't Live Without **Notion, VS Code and Figma**
 
 ###
