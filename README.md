@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer</h3>
 
 - 🔭 I’m currently working on **JavaScript & Parallax Websites**
-- 🌱 I’m currently learning about **BackEnd Development**
+- 🌱 I’m currently learning about **BackEnd Development & Cybersecurity**
 - 💬 Ask me about **Web development and Cybersecurity**
 - 📫 How to reach me **jay1511dj@gmail.com**
 - 😇 Can't Live Without **VS Code**
