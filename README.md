@@ -15,9 +15,9 @@ I’ve built over 30 public repos, but privately.. it’s probably more than 100
 #### About my tech stack:
 
 * **Langauges:** Python, JavaScript, Java, PHP, C#
-* **Databases:** SQL, PostgreSQL, MongoDB
-* **Frameworks/Libraries:** ReactJS, Node.js, Express, NextJS
-* **Tools:** Git, GitHub, Docker, Vercel, Netlify, Render
+* **Databases:** MySQL, PostgreSQL, MongoDB, Neo4j, Redis
+* **Frameworks/Libraries:** ReactJS, Node.js, NextJS, FastAPI, Flask, Django, Springboot
+* **Tools:** Git, GitHub, Docker, Vercel, Netlify, Render, RabbitMQ
 * **Other:** Linux, REST APIs, GDPR, Network Engineering
 
 #### Fun Facts:
