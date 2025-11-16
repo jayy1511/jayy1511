@@ -8,7 +8,7 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 
 My main tech stack is react, javascript, python, node, and tailwind. My favorite tools are figma, notion, and vs code.
 
-I’ve got a bunch of pinned projects, but my favorite is the [ThreatIQ-chatbot](https://github.com/jayy1511/ThreatIQ-chatbot).
+I’ve got a bunch of pinned projects, but my favorite is the [ThreatIQ](https://github.com/jayy1511/ThreatIQ-chatbot).
 
 I’ve built over 30 public repos, but privately.. it’s probably more than 100 at this point.
 
