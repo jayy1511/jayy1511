@@ -6,7 +6,7 @@ I design and build whatever I can imagine.
 
 If an idea pops into my head, chances are I’ll build it and ship it.
 
-My main tech stack is react, javascript, python, node, and tailwind. My favorite tools are figma, notion, and vs code.
+My main tech stack is nextjs, typescript, python, nodejs, and tailwindcss. My favorite tools are figma, notion, and vs code.
 
 I’ve got a bunch of pinned projects, but my favorite is the [ThreatIQ](https://github.com/jayy1511/ThreatIQ_Agent).
 
