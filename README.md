@@ -10,7 +10,7 @@ My main tech stack is react, javascript, python, node, and tailwind. My favorite
 
 I’ve got a bunch of pinned projects, but my favorite is the [ThreatIQ](https://github.com/jayy1511/ThreatIQ_Agent).
 
-I’ve built over 30 public repos, but privately.. it’s probably more than 100 at this point.
+I’ve built over 25 public repos, but privately.. it’s probably more than 50 at this point.
 
 #### About my tech stack:
 
