@@ -8,7 +8,7 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 
 My main tech stack is next.js, typescript, python, nodejs, and tailwindcss. My favorite tools are figma, notion, and vs code.
 
-I’ve got a bunch of pinned projects, but my favorite is the [ThreatIQ](https://github.com/jayy1511/ThreatIQ_Agent).
+I’ve got a bunch of pinned projects, but my favorite is the [ThreatIQ](https://github.com/jayy1511/ThreatIQ).
 
 I’ve built over 25 public repos, but privately.. it’s probably more than 50 at this point.
 
