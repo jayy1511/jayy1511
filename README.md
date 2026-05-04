@@ -31,4 +31,4 @@ I’ve built over 25 public repos, but privately.. it’s probably more than 50 
 
 #### Contact:
 
-[Email](mailto:jaypatel260660@gmail.com) | [Website](https://3d-portfolio-steel-tau.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/jay-patel-11012005j11012005/) | [GitHub](https://github.com/jayy1511)
+[Email](mailto:jaypatel260660@gmail.com) | [Website](https://3d-portfolio-steel-tau.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/jayy1511/) | [GitHub](https://github.com/jayy1511)
