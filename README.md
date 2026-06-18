@@ -27,7 +27,7 @@ I’ve built over 25 public repos, but privately.. it’s probably more than 50 
 * I have a parrot
 * I don’t like tea (caffeine addict)
 * Black Clover is my favorite anime
-* **Hobbies:** anime, cars, gym, building things
+* **Hobbies:** anime, cars, gym, guitar, travel, building things :)
 
 #### Contact:
 
